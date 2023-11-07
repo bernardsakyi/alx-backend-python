@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 
-""" This function returns the sum of  a flaot data type. """
+"""
+  type annotation basics
+"""
 
 
 def add(a: float, b: float) -> float:
+    """returns the sum of two numbers"""
     return a + b

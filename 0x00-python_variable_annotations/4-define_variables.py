@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
-""" Defining and annotating variables with the specified values """
+"""
+  type annotation basics
+"""
 
 a: int = 1
 pi: float = 3.14

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
-""" Basic annotations - concat """
+"""
+  type annotation basics
+"""
+
 
 def concat(str1: str, str2: str) -> str:
-    """ This method takes in string annotations
-        and returns string data type.
-    """
+    """concatenates 2 strings"""
     return str1 + str2
-
